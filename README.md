@@ -1,5 +1,22 @@
-# 💫 About Me:
-<br>🔭 I’m currently working on An innovative AdTech SaaS platform and high-performance n8n automation workflows for SMEs.<br><br>👯 I’m looking to collaborate on Strategic B2B automation projects and advanced n8n custom node development.<br><br>🤝 I’m looking for help with Scaling cloud infrastructure for our upcoming advertising automation tool.<br><br>🌱 I’m currently learning Advanced AI agent integration within autonomous business processes (LangChain & n8n).<br><br>💬 Ask me about Business process automation, n8n architecture, and digital ad optimization.<br><br>⚡ Fun fact We believe that "If you have to do it twice, it should be automated."
+# 💫 About US:
+# 🚀 Cracow Automation Hub
+
+### **Transforming SMEs through Intelligent Workflows & AdTech Innovation**
+
+---
+
+## 🏗️ About Us
+We are a specialized automation agency dedicated to helping **Small and Medium Enterprises (SMEs)** scale by eliminating manual overhead. We don't just connect apps; we architect robust business operating systems.
+
+Our expertise lies at the intersection of **process automation** and **digital advertising technology**. By leveraging the power of **n8n**, we build custom, self-hosted, and secure ecosystems that allow businesses to focus on growth while our workflows handle the rest.
+
+### 🛠️ What We Do:
+* **Custom n8n Solutions:** Designing and deploying complex workflows tailored to specific business needs.
+* **AdTech SaaS Development:** Building proprietary tools to automate and optimize digital ad spend.
+* **Process Engineering:** Audit and optimization of existing business processes for maximum efficiency.
+* **Enterprise Integration:** Seamlessly connecting CRMs, ERPs, and marketing stacks.
+
+---
 
 
 ## 🌐 Socials:
