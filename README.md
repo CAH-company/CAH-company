@@ -1,9 +1,7 @@
-# 💫 About US:
+
 # 🚀 Cracow Automation Hub
 
-### **Transforming SMEs through Intelligent Workflows & AdTech Innovation**
 
----
 
 ## 🏗️ About Us
 We are a specialized automation agency dedicated to helping **Small and Medium Enterprises (SMEs)** scale by eliminating manual overhead. We don't just connect apps; we architect robust business operating systems.
